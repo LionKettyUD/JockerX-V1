@@ -8,7 +8,7 @@
         "Mongo DB"
     ],
     "website": "https://github.com/AlbertEinsteinTG",
-    "repository": "",
+    "repository": "https://github.com/LionKettyUD/JockerX-bOT",
     "success_url": "https://telegram.dog/CrazyBotsz",
     "env": {
         "APP_ID": {
