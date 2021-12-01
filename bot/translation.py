@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<b>I Am Just A Advance Auto Filter Bot....😉
+<b>I Am JockerX....😉
 
 Bot gives button link to files in connected group
 
