@@ -10,7 +10,7 @@ class Translation(object):
 Bot gives button link to files in connected group
 
 For More Details Click Help Button Below..
-@Film_Freakers
+@Filmy_Hangama
 </b>"""    
     
     HELP_TEXT = """
@@ -19,7 +19,7 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/Asrith_Reddy">Asrith</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Filmy_Hangama">↻⇒</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
